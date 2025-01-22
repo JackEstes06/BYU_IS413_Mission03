@@ -1,0 +1,15 @@
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/bin/Debug/net8.0/Mission03
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/bin/Debug/net8.0/Mission03.deps.json
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/bin/Debug/net8.0/Mission03.runtimeconfig.json
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/bin/Debug/net8.0/Mission03.dll
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/bin/Debug/net8.0/Mission03.pdb
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/obj/Debug/net8.0/Mission03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/obj/Debug/net8.0/Mission03.AssemblyInfoInputs.cache
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/obj/Debug/net8.0/Mission03.AssemblyInfo.cs
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/obj/Debug/net8.0/Mission03.csproj.CoreCompileInputs.cache
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/obj/Debug/net8.0/Mission03.sourcelink.json
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/obj/Debug/net8.0/Mission03.dll
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/obj/Debug/net8.0/refint/Mission03.dll
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/obj/Debug/net8.0/Mission03.pdb
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/obj/Debug/net8.0/Mission03.genruntimeconfig.cache
+/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission03/obj/Debug/net8.0/ref/Mission03.dll
